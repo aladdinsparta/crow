@@ -1,0 +1,37 @@
+<package>
+	<id>com.crow.pasithea2_2.2.1_iphoneos-arm</id>
+	<name>pasithea2</name>
+	<version>2.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.4</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>No extra packages, just an Elctra-Jailbroken device :)</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+            BreakThrough is a jailbreak detection avoidance solution.<br/>
+            This tweak has so far given me much better luck than Liberty <br/>
+            Lite as of version 0.9.2
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>222.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
