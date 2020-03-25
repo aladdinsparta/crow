@@ -1,4 +1,4 @@
-Package: com.pulandres.harpy
+Package: com.crow.harpy
 Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Pulandres
@@ -18,7 +18,7 @@ Name: Harpy R
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=493
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 
-Package: com.pulandres.pasithea2
+Package: com.crow.pasithea2
 Version: 2.2.1
 Architecture: iphoneos-arm
 Maintainer: Pulandres
