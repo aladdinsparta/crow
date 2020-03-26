@@ -243,7 +243,7 @@ Name: HideLabels13 crow ios 13.3
 Package: com.crow.icontweak
 Version: 1.0.5
 Architecture: iphoneos-arm
-Maintainer: Pulandres
+Maintainer: crow
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer
 Replaces: com.ichitaso.icontweak
