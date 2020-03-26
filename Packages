@@ -244,7 +244,7 @@ Package: com.crow.icontweak
 Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: crow
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 12.4.4), mobilesubstrate, preferenceloader
 Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer
 Replaces: com.ichitaso.icontweak
 Filename: ./debs/com.crow.icontweak_1.0.5_iphoneos-arm.deb
@@ -260,7 +260,7 @@ Icon: file:///Library/PreferenceBundles/IconTweakSettings.bundle/icon@2x.png
 Installed-Size: 500
 Name: IconTweak Cracked crow
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=888
-Tag: purpose::extension, compatible::ios11, compatible::ios12
+Tag: purpose::extension, compatible::ios11, compatible::ios12 compatible13
 
 Package: com.crow.magmapro
 Version: 1.4.1
