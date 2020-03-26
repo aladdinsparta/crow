@@ -77,7 +77,7 @@ Installed-Size: 1520
 Name: SmartBattery Free Crow
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1630
 
-Package: com.ashapps.wifipasswordslist
+Package: com.crow.wifipasswordslist
 Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer:crow
