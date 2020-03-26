@@ -76,3 +76,58 @@ Icon: https://repo.packix.com/api/Packages/5d81eb2712954e001a518c8c/icon/downloa
 Installed-Size: 1520
 Name: SmartBattery Free Crow
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1630
+
+Package: com.ashapps.wifipasswordslist
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.ashapps.wifipasswordslist_1.0.1-1_iphoneos-arm.deb
+Size: 1313876
+MD5sum: e0cbbf4f00f2cd7f534bb379b534d22b
+SHA1: 5b4af05f988aee08d3a2e0f549d26e584f9d2e31
+SHA256: 9cc631dd378a7d49a5eb551d9e4639466ff4636ae59d61e271b126baed212695
+Section: Utilities
+Description: View saved wifi passwords and other info
+Author: Ash Apps <support@multifl0w.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordslistDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswordslistDp
+Icon: file:///Applications/WifiPasswordList.app/Icon-60.png
+Installed-Size: 3512
+Name: Wifi Passwords List
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9 compatible::ios10 compatible::ios12 compatible::ios13
+dev: aaronash
+
+Package: com.pulandres.localiapstore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.pulandres.localiapstore_1.4-2_iphoneos-arm.deb
+Size: 70964
+MD5sum: 83e664afbd829806407b265af8dee835
+SHA1: c11c9505bd5a8fda8ad72d232da768c2373000a7
+SHA256: 84ed13b4d12c7de06fe42baf7577b61ee6ecddd73ab766012d73145dc76a7bf6
+Section: Tweaks
+Description: Free In-App Purchases
+Author: anondev
+Depiction: https://repo.pulandres.me/index.php?pid=475
+Name: LocalIAPStore crow شراء من داخل تطبيقات مجانا
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=475
+
+Package: com.spark.sneakycam
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: Spark
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.spark.sneakycam_2.0.4_iphoneos-arm.deb
+Size: 141770
+MD5sum: 425dd302fb1063585202e0b440f224be
+SHA1: add7982c08931f5b1852349f7f453d0c689f6ca1
+SHA256: 3fbff38f36050d5ffd2a50aedc7cbb8d0b679ead4de40f74221deaeef0991854
+Section: Tweaks
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Author: Spark
+Installed-Size: 592
+Name: SneakyCam كاميرا مخفية
