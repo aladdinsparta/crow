@@ -1,7 +1,7 @@
 Package: com.crow.harpy
 Version: 2.0.1
 Architecture: iphoneos-arm
-Maintainer: Pulandres
+Maintainer: crow
 Depends: firmware (>= 9.0), network-cmds
 Filename: ./debs/com.crow.harpy_2.0.1_iphoneos-arm.deb
 Size: 6607552
@@ -39,10 +39,10 @@ Installed-Size: 2644
 Name: Pasithea 2 (iOS 10 to 13) Cracked crow
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=897
 
-Package: com.pul.yobunpro
+Package: com.crow.yobunpro
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: Pulandres
+Maintainer: Crow
 Depends: mobilesubstrate
 Filename: ./debs/com.crow.yobunpro_1.2_iphoneos-arm.deb
 Size: 37526
