@@ -80,7 +80,7 @@ SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1630
 Package: com.ashapps.wifipasswordslist
 Version: 1.0.1-1
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer:crow
 Depends: firmware (>= 7.0)
 Filename: ./debs/com.ashapps.wifipasswordslist_1.0.1-1_iphoneos-arm.deb
 Size: 1313876
@@ -95,14 +95,14 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifipasswor
 Icon: file:///Applications/WifiPasswordList.app/Icon-60.png
 Installed-Size: 3512
 Name: Wifi Passwords List
-Sponsor: thebigboss.org <http://thebigboss.org>
+Sponsor:Crow
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9 compatible::ios10 compatible::ios12 compatible::ios13
 dev: aaronash
 
 Package: com.pulandres.localiapstore
 Version: 1.4-2
 Architecture: iphoneos-arm
-Maintainer: Pulandres
+Maintainer: crow
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
 Filename: ./debs/com.pulandres.localiapstore_1.4-2_iphoneos-arm.deb
 Size: 70964
@@ -113,13 +113,13 @@ Section: Tweaks
 Description: Free In-App Purchases
 Author: anondev
 Depiction: https://repo.pulandres.me/index.php?pid=475
-Name: LocalIAPStore crow شراء من داخل تطبيقات مجانا
+Name: LocalIAPStore crow free add cart bay
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=475
 
 Package: com.spark.sneakycam
 Version: 2.0.4
 Architecture: iphoneos-arm
-Maintainer: Spark
+Maintainer: crow
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.spark.sneakycam_2.0.4_iphoneos-arm.deb
 Size: 141770
@@ -130,7 +130,7 @@ Section: Tweaks
 Description: Discretely take a photo or record a video from anywhere, even with your screen off.
 Author: Spark
 Installed-Size: 592
-Name: SneakyCam كاميرا مخفية
+Name: SneakyCam previc camera
 
 Package: com.kaitouiet.fastforwardtime
 Version: 2.0.2
