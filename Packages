@@ -99,7 +99,7 @@ Sponsor:Crow
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9 compatible::ios10 compatible::ios12 compatible::ios13
 dev: aaronash
 
-Package: com.pulandres.localiapstore
+Package: com.crow.localiapstore
 Version: 1.4-2
 Architecture: iphoneos-arm
 Maintainer: crow
