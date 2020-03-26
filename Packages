@@ -14,7 +14,7 @@ Author: midnightchips <midnightchips@gmail.com>
 Depiction: https://repo.pulandres.me/index.php?pid=493
 Icon: file:///Applications/harpy.app/AppIcon29x29@2x.png
 Installed-Size: 12848
-Name: Harpy network
+Name: Harpy network crow
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=493
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 
@@ -33,27 +33,27 @@ SHA256: d86254a62bea1be5b0a27a12855ba5028dc41a2c7207dcf73fd9894c455c8711
 Section: Tweaks
 Description: Awesome ClipBoard
 Author: Cannathea <csupport@cannathea.com>
-Depiction:
+Depiction: https://repo.pulandres.me/index.php?pid=897
 Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
 Installed-Size: 2644
 Name: Pasithea 2 (iOS 10 to 13) Cracked crow
-SileoDepiction:
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=897
 
-Package: com.crow.smartbattery
-Version: 2.6
+Package: com.pul.yobunpro
+Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: crow
-Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, org.thebigboss.libcolorpicker, com.spark.libsparkapplist
-Filename: ./debs/com.crow.smartbattery_2.6_iphoneos-arm.deb
-Size: 391512
-MD5sum: 497a4c41c7cee7a50abe3943b9865ec4
-SHA1: 490e4a7bcd5934c6e39a1d25dd85836bab885657
-SHA256: b9734dfd346a4d1ac0db0f3f862e21a5bd78c1cf1c5c8c422aac45cae4d303da
+Maintainer: Pulandres
+Depends: mobilesubstrate
+Filename: ./debs/com.crow.yobunpro_1.2_iphoneos-arm.deb
+Size: 37526
+MD5sum: 86147a6389323008bc9941975fc6490e
+SHA1: fa4e887ec6bc5904b1216bda743db2eda8c109d7
+SHA256: 32e7101b1a3cbe027b721d81605a4c8d44e6eebd41ee778856644d7674fbdafd
 Section: Tweaks
-Description: بطارية ذكية
-Author: elias
-Depiction:
-Icon: https://repo.packix.com/api/Packages/5d81eb2712954e001a518c8c/icon/download?size=medium
-Installed-Size: 1520
-Name: SmartBattery Free crow
-SileoDepiction:
+Description: Clean,Respring, & more,in your SpringBoard ♥
+Author: Plat-Ykor <plat-ykor@libero.it>
+Depiction: https://repo.pulandres.me/index.php?pid=1605
+Icon: https://repo.packix.com/api/Packages/5e5d5c106cba5100141b6a89/icon/download?size=medium
+Installed-Size: 316
+Name: Yobun Pro Free Crow
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1605
