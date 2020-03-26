@@ -57,3 +57,22 @@ Icon: https://repo.packix.com/api/Packages/5e5d5c106cba5100141b6a89/icon/downloa
 Installed-Size: 316
 Name: Yobun Pro Free Crow
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1605
+
+Package: com.crow.smartbattery
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: crow
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, org.thebigboss.libcolorpicker, com.spark.libsparkapplist
+Filename: ./debs/com.crow.smartbattery_2.6_iphoneos-arm.deb
+Size: 391512
+MD5sum: 497a4c41c7cee7a50abe3943b9865ec4
+SHA1: 490e4a7bcd5934c6e39a1d25dd85836bab885657
+SHA256: b9734dfd346a4d1ac0db0f3f862e21a5bd78c1cf1c5c8c422aac45cae4d303da
+Section: Tweaks
+Description: البطارية ذكيةSave your battery, improve LPM.
+Author: elias
+Depiction: https://repo.pulandres.me/index.php?pid=1630
+Icon: https://repo.packix.com/api/Packages/5d81eb2712954e001a518c8c/icon/download?size=medium
+Installed-Size: 1520
+Name: SmartBattery Free Crow
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1630
