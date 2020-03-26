@@ -281,3 +281,21 @@ Icon: https://repo.pulandres.me/CydiaIcon.png
 Installed-Size: 440
 Name: Magma Pro Free crow
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=863
+
+Package: com.crow.tetherme8
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: crow
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/com.crow.tetherme8_1.2.3_iphoneos-arm.deb
+Size: 173638
+MD5sum: 8016349c0252f182275ee9a257178d0c
+SHA1: 4da4634c201a6b0f6c3f914bfcfff1bf7ddc056e
+SHA256: ab37746e2c1d47ee809f5a4b6294c3722ecaf85c0c9ae1ee8cbac21d5ffa4b3b
+Section: Tweaks
+Description: More advanced modem settings
+Author: crow
+Installed-Size: 2300
+Name: TetherMe for iOS 8+ free Crow

@@ -1,94 +1,18 @@
-Package: com.pulandres.floatingdockplus13
-Version: 1.1.5
+Package: com.pulandres.tetherme8
+Version: 1.2.3
 Architecture: iphoneos-arm
-Maintainer: Pulandres
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.spark.libsparkapplist
-Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock, com.imkpatil.floatingdockplus
-Filename: ./debs/com.crow.floatingdockplus13_1.1.5_iphoneos-arm.deb
-Size: 93772
-MD5sum: 0267d0f11075719936a7ef426ffb41cd
-SHA1: 5c102448e3dc35787bbf745e7cf677c77fb2a957
-SHA256: 51b13bcbff84f1aeb3a77b2b921b1b9c8d8663778ded643a17019b76441e9a16
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/com.crow.tetherme8_1.2.3_iphoneos-arm.deb
+Size: 173638
+MD5sum: 8016349c0252f182275ee9a257178d0c
+SHA1: 4da4634c201a6b0f6c3f914bfcfff1bf7ddc056e
+SHA256: ab37746e2c1d47ee809f5a4b6294c3722ecaf85c0c9ae1ee8cbac21d5ffa4b3b
 Section: Tweaks
-Description: Use your Dock like a PRO!
-Author: P2KDev <p2kdev@gmail.com>
-Depiction: https://repo.pulandres.me/index.php?pid=1099
-Icon: https://repo.packix.com/api/Packages/5dd2023ff2dafe001bf7ec4d/icon/download?size=medium&hash=2
-Installed-Size: 420
-Name: FloatingDockPlus13 Free
-SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1099
-
-Package: com.pxcex.googlewindownew
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: pxcex
-Depends: mobilesubstrate
-Filename: ./debs/com.crow.googlewindownew_0.0.2_iphoneos-arm.deb
-Size: 170890
-MD5sum: e3cb17ec06757218b6976e1db77ca6c4
-SHA1: b6fd73ac76c1bf81181be1d3d806a4cfed628731
-SHA256: 1ba4326f441c75cedae77878a7f46183af812bb2c1ae5a4e828f1420c82b8b49
-Section: Tweaks
-Description: Googling everywhere with double tap on statusbar for IOS.
-Author: pxcex
-Installed-Size: 676
-Name: GoogleWindow
-
-Package: com.ryannair05.hidelabels13
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Ryan Nair
-Depends: mobilesubstrate
-Filename: ./debs/com.crow.hidelabels13_1.0.0_iphoneos-arm.deb
-Size: 3468
-MD5sum: a32e2b333cd077b3ed2fb87ca30931ea
-SHA1: 1141500ef0ef1878d7f083655c42e22377d18639
-SHA256: fcbf9f53b4ee30a0cf0ba3aa646919c97f669d5058c0c7fa8ef26ec9ef1a8b73
-Section: Tweaks
-Description: Hide icon labels on iOS 13!
-Author: Ryan Nair
-Installed-Size: 136
-Name: HideLabels13
-
-Package: com.pulandres.icontweak
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: Pulandres
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer
-Replaces: com.ichitaso.icontweak
-Filename: ./debs/com.crow.icontweak_1.0.5_iphoneos-arm.deb
-Size: 147970
-MD5sum: 04c6276260ebeffc40c538cc47e0a1a9
-SHA1: e074f2d3f7f967e87bcf21743c3bd3f41514261b
-SHA256: 7df900350e9142bdd6234455acec6af725450fdb3a7d1f4831edf1d147e0bb74
-Section: Tweaks
-Description: Swipe icons to show control menu and more!
-Author: ichitaso <willfeeltips+ict@gmail.com>
-Depiction: https://repo.pulandres.me/index.php?pid=888
-Icon: file:///Library/PreferenceBundles/IconTweakSettings.bundle/icon@2x.png
-Installed-Size: 500
-Name: IconTweak Cracked
-SileoDepiction: https://repo.pulandres.me/sileo.php?pid=888
-Tag: purpose::extension, compatible::ios11, compatible::ios12
-
-Package: com.pulandres.magmapro
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: Pulandres
-Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
-Conflicts: com.noisyflake.magma
-Filename: ./debs/com.crow.magmapro_1.4.1_iphoneos-arm.deb
-Size: 88752
-MD5sum: b653eb81861b1585a94c275d5f5233cf
-SHA1: f20c4e177a57d2a1773a7b6ea0591e26865e993f
-SHA256: 9fa38dfd54f2e09e475afd2bf43203790a28bf77f95a7fb18bb084bbee656bf5
-Section: Tweaks
-Description: Colorize your Control Center
-Author: NoisyFlake
-Depiction: https://repo.pulandres.me/index.php?pid=863
-Icon: https://repo.pulandres.me/CydiaIcon.png
-Installed-Size: 440
-Name: Magma Pro Free
-SileoDepiction: https://repo.pulandres.me/sileo.php?pid=863
+Description: More advanced modem settings
+Author: Sam Bingner <support@tetherme.net>
+Installed-Size: 2300
+Name: TetherMe for iOS 8+
 
