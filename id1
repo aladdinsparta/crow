@@ -99,6 +99,29 @@ Installed-Size: 316
 Name: Yobun Pro Free
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1605
 
+Package: com.kaitouiet.fastforwardtime
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/com.kaitouiet.fastforwardtime_2.0.2_iphoneos-arm.deb
+Size: 34886
+MD5sum: 7165d5872f93db31aceb2ffe3fe2d142
+SHA1: a6a82392dc448a7e57624de97f5da69239cdaac1
+SHA256: 6148c8df704cffe43d97d216e1d8a7e97d24bd7369808c870b3ec74fd475bf07
+Section: Tweaks
+Description: Adds seconds to your lockscreen clock, change font size of time and date, and moves them!
+Author: Kiet Ha <kaitouiet@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastforwardtimeDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastforwardtimeDp
+Icon: file:///Library/PreferenceBundles/FFTPref.bundle/kiet2x.png
+Installed-Size: 214
+Name: FastForwardTime
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+dev: kaitouiet
+
 Package: com.pulandres.localiapstore
 Version: 1.4-2
 Architecture: iphoneos-arm
@@ -116,6 +139,24 @@ Depiction: https://repo.pulandres.me/index.php?pid=475
 Name: LocalIAPStore
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=475
 
+Package: com.pulandresnetworkmanager
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.pulandresnetworkmanager_1.0.2_iphoneos-arm.deb
+Size: 46956
+MD5sum: 47a44630bb1ac0d7f8605b0815cd753a
+SHA1: 1e2aebe0416184ea270fa7ae54e720f6185285e3
+SHA256: d825d4f8124aabe661209d081fdb6bdc8d846f178f642cdc341f760487ca7142
+Section: Tweaks
+Description: Force 2G/3G/LTE connection
+Author: NoisyFlake
+Depiction: https://pulandres.me/repo/index.php?pid=338
+Installed-Size: 336
+Name: NetworkManager R
+SileoDepiction: https://pulandres.me/repo/sileo.php?pid=338
+
 Package: com.spark.sneakycam
 Version: 2.0.4
 Architecture: iphoneos-arm
@@ -131,4 +172,19 @@ Description: Discretely take a photo or record a video from anywhere, even with 
 Author: Spark
 Installed-Size: 592
 Name: SneakyCam
+
+Package: org.cydia.kiimo.redeb
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
+Filename: ./debs/org.cydia.kiimo.redeb_1.0.3_iphoneos-arm.deb
+Size: 3290
+MD5sum: 1fd19ed9d7cdd26b83d6bc6be2a70f65
+SHA1: ca4879b268dd8d97c241b82f52beaad36de581ba
+SHA256: ffeed359fa098b4be86c81b31294997b3a389719d871dee2899c832faf5eeecb
+Section: Utilities
+Author: T.Herak <nick1710@live.it>
+Name: redeb
+Sponsor: kiiimo.org <http://kiiimo.org>
 
