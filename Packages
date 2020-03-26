@@ -240,7 +240,7 @@ Author: crow
 Installed-Size: 136
 Name: HideLabels13 crow ios 13.3
 
-Package: com.pulandres.icontweak
+Package: com.crow.icontweak
 Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: Pulandres
