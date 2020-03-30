@@ -40,6 +40,18 @@ body
     width:100%;
   }
 }
+
+/* BAR SAFER >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> START */
+hr.barsfar {
+  border: 10px solid #F0FF00;
+  border-radius: 5px;
+}
+
+/* BAR SAFER >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> STOP */
+
+
+
+
  /* Bar Menu >>>>>>>>>>>>>>>>>>>>>>>>>>>>>Start*/
 
  div {
@@ -71,9 +83,13 @@ body
 
 
 
-
   /* Bar Menu >>>>>>>>>>>>>>>>>>>>>>>>>>>> Stop Cod*/
 
 
   p.normal {
     font-weight: normal;
+
+
+    /* FOTER >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> START */
+
+      /* FOTER >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> STOP */
