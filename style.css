@@ -69,22 +69,26 @@ hr.barsfar {
  .cydia {
    background-color: #ffdddd;
    border-left: 6px solid #f44336;
+   color: #000000;
  }
 
  .zebra {
    background-color: #ddffdd;
    border-left: 6px solid #4CAF50;
+   color: #000000;
  }
 
  .sileo {
    background-color: #e7f3fe;
    border-left: 6px solid #2196F3;
+   color: #000000;
  }
 
 
  .installaer {
    background-color: #ffffcc;
    border-left: 6px solid #ffeb3b;
+   color: #000000;
  }
 
 
