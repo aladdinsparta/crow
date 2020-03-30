@@ -191,10 +191,9 @@ hr.barsfar {
    }
  }
 
- @media screen and (max-width:1024px) { CSS FOR Max WIDTH 1024Px }
- @media screen and (max-width:768px) { CSS FOR Max WIDTH 768Px }
- @media screen and (max-width:640px) { CSS FOR Max WIDTH 640Px }
- @media screen and (max-width:480px) { CSS FOR Max WIDTH 480Px }
- @media screen and (max-width:320px) { CSS FOR Max WIDTH 320Px }
 
  /* Bar Menu >>>>>>>>>>>>>>>>>>>>>>>>>>>> Stop Cod*/
+
+ @-ms-viewport{
+  width: device-width;
+}
