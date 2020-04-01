@@ -12,7 +12,8 @@ body
   width:20%;
   text-align:center;
 }
-.menu a {
+
+.btn {
   background-color: DodgerBlue;
   padding:8px;
   margin-top:7px;
@@ -23,21 +24,10 @@ body
   cursor: pointer;
 }
 
-.A:hover {
+.btn:hover {
   background-color: RoyalBlue;
 }
 
-.B:hover {
-  background-color: RoyalBlue;
-}
-
-.c:hover {
-  background-color: RoyalBlue;
-}
-
-.D:hover {
-  background-color: RoyalBlue;
-}
 
 
 .main {
