@@ -13,13 +13,33 @@ body
   text-align:center;
 }
 .menu a {
-  background-color:#e5e5e5;
+  background-color: DodgerBlue;
   padding:8px;
   margin-top:7px;
   display:block;
   width:100%;
   color:black;
+  border: none;
+  cursor: pointer;
 }
+
+.A:hover {
+  background-color: RoyalBlue;
+}
+
+.B:hover {
+  background-color: RoyalBlue;
+}
+
+.c:hover {
+  background-color: RoyalBlue;
+}
+
+.D:hover {
+  background-color: RoyalBlue;
+}
+
+
 .main {
   float:left;
   width:60%;
@@ -54,7 +74,7 @@ body
 .dskrp {
 
   text-transform: uppercase;
-  color: #F7090D;
+  color: #D8D8D8;
 }
 
 
