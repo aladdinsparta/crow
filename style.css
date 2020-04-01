@@ -51,8 +51,16 @@ body
 
 /* ABOUT >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> START */
 
+.dskrp {
+
+  text-transform: uppercase;
+  color: #F7090D;
+}
+
+
+
 .right {
-  background-color:#e5e5e5;
+  background-color:#01CFE1;
   float:left;
   width:20%;
   padding:15px;
