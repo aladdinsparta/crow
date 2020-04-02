@@ -20,19 +20,25 @@
 
 <!-- Menu >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Start-->
 
-  <div style="overflow:auto">
-    <div class="menu">
-      <button class="btn" onclick="window.location.href = 'https://aladdinsparta.github.io/crow/';">IPA ios</button>
-      <button class="btn" onclick="window.location.href = '#;">soon..</button>
-      <button class="btn" onclick="window.location.href = '#;">soon..</button>
-    </div>
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
+
+
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+
 
    <!-- Menu >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Stop-->
 
    <!-- NOT >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Start-->
 
     <div class="main">
-      <h1 class="glow">source</h1>
+
       <div class="cydia">
         <p class="normal" ><strong>Cydia source = </strong> https://aladdinsparta.github.io/crow/</p>
       </div>
@@ -71,6 +77,21 @@
   <!-- Footer >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start-->
 
 
+
+  <!-- script >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start-->
+
+  <script>
+  function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+  }
+
+  function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+  }
+  </script>
+
+
+  <!-- script >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> stop-->
 
 
 
