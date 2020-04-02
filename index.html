@@ -20,20 +20,20 @@
 
 <!-- Menu >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Start-->
 
-
-
-    <div style="overflow:auto" id="myNav" class="overlay">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <div class="overlay-content">
-    <a href="#">About</a>
-    <a href="#">Services</a>
-    <a href="#">Clients</a>
-    <a href="#">Contact</a>
-  </div>
+<div id="mySidepanel" class="sidepanel">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+  <a href="#">IPA IOS</a>
+  <a href="https://aladdinsparta.github.io/crow/">ICLOUD  </a>
+  <a href="#">ANDROID</a>
+  <a href="#">Contact</a>
 </div>
 
+  <div style="overflow:auto">
+    <div class="menu">
+      <button class="openbtn" onclick="openNav()">☰ Menuuu</button>
 
-<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+    </div>
+
 
 
 
@@ -86,11 +86,11 @@
 
   <script>
   function openNav() {
-    document.getElementById("myNav").style.width = "100%";
+    document.getElementById("mySidepanel").style.width = "250px";
   }
 
   function closeNav() {
-    document.getElementById("myNav").style.width = "0%";
+    document.getElementById("mySidepanel").style.width = "0";
   }
   </script>
 
