@@ -60,47 +60,54 @@ body
 }
 
   /* TEXT GLOW >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> STOP */
-  body {
-    font-family: "Lato", sans-serif;
-  }
-
-  .sidenav {
+  .overlay {
     height: 100%;
     width: 0;
     position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
     overflow-x: hidden;
     transition: 0.5s;
-    padding-top: 60px;
   }
 
-  .sidenav a {
-    padding: 8px 8px 8px 32px;
+  .overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .overlay a {
+    padding: 8px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 36px;
     color: #818181;
     display: block;
     transition: 0.3s;
   }
 
-  .sidenav a:hover {
+  .overlay a:hover, .overlay a:focus {
     color: #f1f1f1;
   }
 
-  .sidenav .closebtn {
+  .overlay .closebtn {
     position: absolute;
-    top: 0;
-    right: 25px;
-    font-size: 36px;
-    margin-left: 50px;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
   }
 
   @media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+    }
   }
 /* ABOUT >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> START */
 
